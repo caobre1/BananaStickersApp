@@ -1,0 +1,34 @@
+{
+  "stickers": [
+    {
+      "filename": "banana-1.jpg",
+      "title": "Classic Yellow",
+      "description": "Classic yellow banana sticker"
+    },
+    {
+      "filename": "banana-2.jpg",
+      "title": "Happy Face",
+      "description": "Happy banana sticker with face"
+    },
+    {
+      "filename": "banana-3.jpg",
+      "title": "Tropical Vibes",
+      "description": "Tropical banana sticker"
+    },
+    {
+      "filename": "banana-4.jpg",
+      "title": "Cool Dude",
+      "description": "Cool banana with sunglasses"
+    },
+    {
+      "filename": "banana-5.jpg",
+      "title": "Rainbow Fun",
+      "description": "Rainbow banana sticker"
+    },
+    {
+      "filename": "banana-6.jpg",
+      "title": "Sparkly Gold",
+      "description": "Sparkly banana sticker"
+    }
+  ]
+}

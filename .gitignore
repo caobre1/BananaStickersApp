@@ -1,0 +1,25 @@
+# Node modules (if you add npm)
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Local development
+.env
+.env.local
+
+# Build artifacts
+dist/
+build/
+*.zip
